@@ -22,10 +22,10 @@ Here's a list of projects you'll find in this repository:
 
 ## How to Use This Repository
 
-Feel free to explore the projects by navigating to their respective folders. Each project contains detailed explanations, code, visualizations, and insights related to the data cleaning and preprocessing process. If you're interested in learning about effective data preparation techniques, you're in the right place!
+Feel free to explore the projects by navigating to their respective folders. Each project contains detailed explanations, code, visualizations, and insights related to the data cleaning and preprocessing process.
 
 ## Contact
 
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [email](mailto:your.email@example.com).
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abdul-hadi-mohammed-81a54a137/)https://www.linkedin.com/in/abdul-hadi-mohammed-81a54a137/) or [email](mailto:hadiabdul9999@gmail.com).
 
 
